@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'CampusRecruit'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EA259EE5E6E34F3986CE1FEE96BA468E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_763DB4810266489FA4090D68E9E23E97 }}
           package: .
